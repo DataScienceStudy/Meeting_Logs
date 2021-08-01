@@ -17,7 +17,8 @@
 
 ### 지출 계획
 - 앱 프로토타입 디자인 & 로고 : 40만원~
--
+![image](https://user-images.githubusercontent.com/73813367/127762144-d3cf83a2-6a1a-4981-9405-f676399c18a1.png)
+
 
 - 기술 자문 (일단 Wif멘토링 및 Wiset 멘토링 이용)
 - 
